@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    tools:ignore="ExtraText">
+
+
+    <item
+        android:id="@+id/nav_dark_mode"
+        android:title="Dark Mode"
+        app:actionLayout="@layout/switch_item" />
+
+
+    <item
+        android:id="@+id/about"
+        android:title="About"/>
+
+
+
+    <item android:title="Profile">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_login"
+                android:title="Login"
+                android:icon="@drawable/ic_baseline_login_24"/>
+
+        </menu>
+
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share"
+                android:icon="@drawable/ic_baseline_share_24"/>
+
+            <item
+                android:id="@+id/nav_rate_us"
+                android:title="Rate_us"
+                android:icon="@drawable/ic_baseline_star_rate_24"/>
+
+
+        </menu>
+    </item>
+
+
+
+</menu>
