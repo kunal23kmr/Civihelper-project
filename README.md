@@ -1,4 +1,18 @@
 # Civihelper-project
+Problem-- Time taking and cumbersome conventional way to submit your civil problems.
+Proposed soln---
+
+A platform to provide the submission of problems related to electricity/road/water supply etc..
+
+Concept---
+ Kotlin programming using andorid studio to create pages for PROBLEM WRITING AND RESIDENTIAL ADDRESS and to submit.
+
+
+
+
+
+
+
 This is our first android project .
 Idea on which we are working from few weeks -
 1-Inspiration:-
