@@ -3,4 +3,21 @@
     <string name="activity1">Activity1</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="default_web_client_id_auth">515347850756-bqfu26icp4h9954sslg6gsbv64qdn7pp.apps.googleusercontent.com</string>
+    <string name="civihelper">CiviHelper!</string>
+    <string name="lets_make_a_better_society">LETS MAKE A BETTER SOCIETY!!!</string>
+    <string name="welcome">WELCOME</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="choose_your_problem_type_from_here">Choose Your Problem Type From Here :-</string>
+    <string name="street_lights">Street Lights</string>
+    <string name="electricity">Electricity</string>
+    <string name="drainage">Drainage</string>
+    <string name="road">Road</string>
+    <string name="other"><![CDATA[Other->]]></string>
+    <string name="describe_your_issue">Describe Your Issue</string>
+    <string name="describe_your_problem_briefly">Describe Your Problem ( briefly )</string>
+    <string name="area_of_issue">Area of issue</string>
+    <string name="submit">Submit</string>
+    <string name="upload">Upload</string>
+    <string name="select_pic">Select Pic</string>
 </resources>

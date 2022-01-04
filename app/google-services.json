@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "515347850756",
+    "project_id": "civihelper1",
+    "storage_bucket": "civihelper1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515347850756:android:40a4b2b798c06ae743f751",
+        "android_client_info": {
+          "package_name": "com.example.civihelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515347850756-u2ven0d130jliegn4k00phd68bt9taia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.civihelper",
+            "certificate_hash": "d50dd83d88999668c74a144c77d6198efb1044ba"
+          }
+        },
+        {
+          "client_id": "515347850756-bqfu26icp4h9954sslg6gsbv64qdn7pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfUeIOfr6zRxmqlqTNBn3JBay8S1lmfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515347850756-bqfu26icp4h9954sslg6gsbv64qdn7pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

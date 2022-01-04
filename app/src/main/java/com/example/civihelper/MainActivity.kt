@@ -1,8 +1,10 @@
 package com.example.civihelper
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
+import android.widget.Button
 import android.widget.Switch
 import android.widget.Toast
 import androidx.appcompat.app.ActionBarDrawerToggle
@@ -17,6 +19,33 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        val button1 = findViewById<Button>(R.id.electricity)
+        val button2 = findViewById<Button>(R.id.water)
+        val button3 = findViewById<Button>(R.id.street_light)
+        val button4 = findViewById<Button>(R.id.road)
+        val button5 = findViewById<Button>(R.id.other)
+
+        button1.setOnClickListener {
+            val intent = Intent(this,form::class.java)
+            startActivity(intent)
+        }
+        button2.setOnClickListener {
+            val intent = Intent(this,form::class.java)
+            startActivity(intent)
+        }
+        button3.setOnClickListener {
+            val intent = Intent(this,form::class.java)
+            startActivity(intent)
+        }
+        button4.setOnClickListener {
+            val intent = Intent(this,form::class.java)
+            startActivity(intent)
+        }
+        button5.setOnClickListener {
+            val intent = Intent(this,form::class.java)
+            startActivity(intent)
+        }
 
 
         val drawerLayout : DrawerLayout = findViewById(R.id.drawerLayout)
@@ -35,7 +64,12 @@ class MainActivity : AppCompatActivity() {
 
                 R.id.nav_dark_mode -> Toast.makeText(
                     applicationContext,
-                    "Clicked Message",
+                    "Clicked Dark Mode",
+                    Toast.LENGTH_SHORT
+                ).show()
+                R.id.about -> Toast.makeText(
+                    applicationContext,
+                    "Clicked About",
                     Toast.LENGTH_SHORT
                 ).show()
                 R.id.nav_login -> Toast.makeText(
