@@ -8,11 +8,19 @@ A platform to provide the submission of problems related to electricity/road/wat
 
 Concept---
  Kotlin programming using andorid studio to create pages for PROBLEM WRITING AND RESIDENTIAL ADDRESS and to submit.
+FUTURE SCOPE---
+
+ENHANCEMENT OF APP BY LINKING IT WITH OTHER FACILITIES LIKE TRANSPORT,HEALTH ETC.
+![Screenshot_1641369623](https://user-images.githubusercontent.com/96365499/148186088-722ef821-3ef9-4461-9f8c-803d78aae833.png)
+![Screenshot_1641369625](https://user-images.githubusercontent.com/96365499/148186102-3187cf0e-5beb-427f-be04-78f07886dd6c.png)
+![Screenshot_1641369629](https://user-images.githubusercontent.com/96365499/148186113-4b54bcbd-3898-4d56-899e-d2323e1246e8.png)
+
+![Screenshot_1641369631](https://user-images.githubusercontent.com/96365499/148186128-92f2696a-7c0b-4754-b5c5-36d08e23dfa3.png)
+![Screenshot_1641369641](https://user-images.githubusercontent.com/96365499/148186147-937f427c-87be-43bc-b80a-037dc2563fb1.png)
 
 
 
-Repository link-gh repo clone candyKUNAL/Civihelper-project
-
+Repository link- https://github.com/candyKUNAL/Civihelper-project
 
 
 This is our first android project .
