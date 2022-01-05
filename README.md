@@ -29,9 +29,9 @@ Repository link- https://github.com/candyKUNAL/Civihelper-project
 
 Contributors:- 
 
-Ayush Ranjan
-Kunal Kumar
-Swagat Swaroop Parida
+Ayush Ranjan.
+Kunal Kumar.
+Swagat Swaroop Parida.
 Vikash Kumar gupta.
 
 
